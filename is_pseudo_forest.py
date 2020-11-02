@@ -1,3 +1,5 @@
+# https://app.codesignal.com/challenge/yT5pFLMH8zZNh3BN7
+
 def isPseudoforest(n, wmap):
     l = [[] for _ in range(n)]
     for i, j in wmap:
